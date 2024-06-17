@@ -12,7 +12,7 @@ function b() {
     console.log(x);
 }
 
-// first a global execution context will be created 
+// first a global execution context will be created
 // memory execution phase will be created
 // x will be assigned a placeholder value of undefined in the memory phase
 // a and b will be assigned a placeholder value of their function definition in the memory phase
